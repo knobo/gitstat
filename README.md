@@ -3,8 +3,9 @@
 to run this app run 
 
 ``` bash
-nom run build
-npm run start
+yarn install
+yarn run build
+yarn run start
 ```
 
 # Test
